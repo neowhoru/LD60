@@ -1,0 +1,1 @@
+FadeToRoom(room_next(room), 60, c_black);

@@ -1,0 +1,1 @@
+var _dummy = fx_create("_filter_pixelate");
